@@ -5,3 +5,4 @@
      - [ ] San Jose
      - [ ] Pasta
      - [ ] Photos
+     - [ ] Color: Green
