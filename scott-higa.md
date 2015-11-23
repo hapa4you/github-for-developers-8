@@ -6,3 +6,4 @@
      - [ ] Pasta
      - [ ] Photos
      - [ ] Color: Green
+     - [ ] More stuff from command line
